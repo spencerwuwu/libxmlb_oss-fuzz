@@ -1,0 +1,5 @@
+homepage: "https://github.com/hughsie/libxmlb"
+language: c++
+
+fuzzing_engines:
+  - libfuzzer
